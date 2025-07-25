@@ -1,14 +1,14 @@
 <h1 align="center">✨ Nguyễn Thái Sơn ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=3rd+year+ICT+student+%F0%9F%93%9A;Web%2FApp+Developer+%F0%9F%92%BB;Japan-loving+Tech+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=2rd+year+ICT+student+%F0%9F%93%9A;Web%2FApp+Developer+%F0%9F%92%BB;Japan-loving+Tech+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Xin chào! Mình là **Nguyễn Thái Sơn**, một sinh viên năm 3 ngành **Công nghệ thông tin và Truyền thông (ICT)** tại trường **Đại học Phenikaa**.  
+Xin chào! Mình là **Nguyễn Thái Sơn**, một sinh viên năm 2 ngành **Công nghệ thông tin và Truyền thông (ICT)** tại  **Đại học Phenikaa**.  
 Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích khám phá các công nghệ mới và không ngừng học hỏi để hoàn thiện bản thân.
 
 > _“Mình không chỉ muốn tạo ra phần mềm chạy được – mà là thứ khiến người dùng phải mỉm cười.”_
