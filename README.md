@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-💻%20ICT%20Student-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-🌟%20Web/Mobile%20Enthusiast-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-🇯🇵%20Japanese%20Tech%20Lover-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" />
+  <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" />
+  <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" />
 </p>
 
 
