@@ -1,8 +1,13 @@
-<h1 align="center">✨ Nguyễn Thái Sơn ✨</h1>
+<h<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer+;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=2rd+year+ICT+student+%F0%9F%93%9A;Web%2FApp+Developer+%F0%9F%92%BB;Japan-loving+Tech+Enthusiast+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/-💻%20ICT%20Student-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🌟%20Web/Mobile%20Enthusiast-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🇯🇵%20Japanese%20Tech%20Lover-red?style=for-the-badge" />
 </p>
+
 
 ---
 
