@@ -88,7 +88,7 @@ Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích k
 
 - 📧 Email: **son28062005@gmail.com**
 - 🌐 GitHub: [Sotharmory](https://github.com/Sotharmory)
-- 🧑‍🎓 Facebook: *add link nếu muốn*
+- 🧑‍🎓 Facebook: (https://www.facebook.com/SoThamory01/)
 - 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese (studying) 🇯🇵
 
 ---
