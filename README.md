@@ -6,37 +6,33 @@
   <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" />
   <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" />
   <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" />
-  <img src="https://komarev.com/ghpvc/?username=Sotharmory&style=for-the-badge" alt="Profile views"/>
 </p>
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-Xin chào! Mình là **Nguyễn Thái Sơn**, sinh viên năm 2 ngành **ICT - Công nghệ thông tin và Truyền thông** tại **Đại học Phenikaa**.
+Xin chào! Mình là **Nguyễn Thái Sơn**, một sinh viên năm 2 ngành **Công nghệ thông tin và Truyền thông (ICT)** tại  **Đại học Phenikaa**.  
+Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích khám phá các công nghệ mới và không ngừng học hỏi để hoàn thiện bản thân.
 
-💡 Mình đam mê phát triển **Web/Mobile hiện đại**, có hứng thú với **AI, bảo mật và IoT**, đặc biệt là thị trường công nghệ Nhật Bản 🇯🇵.
+> _“Mình không chỉ muốn tạo ra phần mềm chạy được – mà là thứ khiến người dùng phải mỉm cười.”_
 
-> _“Không chỉ viết code – mà là tạo nên trải nghiệm.”_
-
----
-
-🎯 Goals in 2025
-
-🌱 Từng bước hoàn thiện kỹ năng Full-stack Developer với React, Node.js và Flutter
-💻 Hoàn thành ít nhất 3 dự án open-source chất lượng phục vụ cộng đồng
-🌍 Đạt chứng chỉ tiếng Nhật JLPT N3 vào cuối năm 2025 và tìm kiếm cơ hội làm việc tại công ty công nghệ Nhật Bản 🇯🇵
-📚 Nâng cao kiến thức về DevOps, CI/CD, và thực hành Cybersecurity qua dự án thực tế
+🔭 Hiện tại mình đang:
+- Nghiên cứu sâu hơn về **React**, **Flutter**, **Kotlin**
+- Học về **Full-stack Web**, **CI/CD**, và **Cybersecurity**
+- Làm các dự án cá nhân và open source để rèn luyện kỹ năng thực chiến
+- Hướng tới môi trường làm việc tại công ty công nghệ Nhật Bản 🇯🇵
 
 ---
-
 ## 🔧 Tech Stack
 
-### 🌐 Web & Mobile
+### 🌐 Web & Mobile Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
@@ -54,26 +50,19 @@ Xin chào! Mình là **Nguyễn Thái Sơn**, sinh viên năm 2 ngành **ICT - C
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 
-### 🔐 Cyber & Embedded
+### 🔐 Cyber & Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1E1E1E?style=flat)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
----
 
-## 🎨 Featured Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| [🌐 Aley Network](https://github.com/Sotharmory/Aley) | Nền tảng mạng xã hội kết nối cộng đồng Việt | React, Node.js, MongoDB |
-| [📱Weather4Farm](https://github.com/Sotharmory/Weather4Farm) | Ứng dụng dự báo thời tiết phục vụ nông nghiệp | Flutter, Firebase |
-| [🛡️ Auto Defense](https://github.com/Sotharmory/AutoDefense) | Hệ thống giám sát IoT bảo mật | ESP32, FastAPI, MQTT |
 
 ---
 
@@ -102,28 +91,12 @@ Xin chào! Mình là **Nguyễn Thái Sơn**, sinh viên năm 2 ngành **ICT - C
 
 ---
 
-## 🎵 Spotify Status
-<p align="center">
-  <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" width="50%" alt="Spotify Now Playing"/>
-</p>
-
----
-
-## 💻 Coding Time (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sotharmory&theme=tokyonight" />
-</p>
-
----
-
 ## 💬 Let's Connect!
 
 - 📧 Email: **son28062005@gmail.com**
 - 🌐 GitHub: [Sotharmory](https://github.com/Sotharmory)
-- 🧑‍🎓 Facebook: [facebook.com/SoThamory01](https://www.facebook.com/SoThamory01/)
-- 💼 LinkedIn: *(sắp có)*  
-- 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese 🇯🇵
+- 🧑‍🎓 Facebook: (https://www.facebook.com/SoThamory01/)
+- 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese (studying) 🇯🇵
 
 ---
 
@@ -134,4 +107,3 @@ Xin chào! Mình là **Nguyễn Thái Sơn**, sinh viên năm 2 ngành **ICT - C
 > _"Perfection is not when there's nothing left to add, but when there's nothing left to take away."_
 
 ---
-
