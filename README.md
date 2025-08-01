@@ -20,7 +20,7 @@ Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích k
 
 🔭 Hiện tại mình đang:
 - Nghiên cứu sâu hơn về **React**, **Flutter**, **Kotlin**
-- Học về **Full-stack Web**, **CI/CD**, và **Cybersecurity**
+- Học về **Full-stack Web**, **CI/CD**
 - Làm các dự án cá nhân và open source để rèn luyện kỹ năng thực chiến
 - Hướng tới môi trường làm việc tại công ty công nghệ Nhật Bản 🇯🇵
 
