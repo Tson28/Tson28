@@ -64,11 +64,10 @@ Inspire other young developers in Vietnam who share the same passion for coding 
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sotharmory&show_icons=true&theme=tokyonight&count_private=true" width="32%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotharmory&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotharmory&theme=tokyonight&hide_border=true" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tson28&show_icons=true&theme=tokyonight&count_private=true" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tson28&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tson28&theme=tokyonight&hide_border=true" width="32%"/>
 </p>
 
 ---
@@ -76,7 +75,7 @@ Inspire other young developers in Vietnam who share the same passion for coding 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sotharmory&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tson28&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -84,7 +83,7 @@ Inspire other young developers in Vietnam who share the same passion for coding 
 ## 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sotharmory&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tson28&theme=react-dark" />
 </p>
 
 ---
@@ -92,7 +91,7 @@ Inspire other young developers in Vietnam who share the same passion for coding 
 ## 💬 Let's Connect!
 
 - 📧 Email: **son28062005@gmail.com**
-- 🌐 GitHub: [Sotharmory](https://github.com/Sotharmory)
+- 🌐 GitHub: [Tson28](https://github.com/Tson28)
 - 🧑‍🎓 Facebook: https://www.facebook.com/SoThamory01/
 - 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese (studying) 🇯🇵
 
