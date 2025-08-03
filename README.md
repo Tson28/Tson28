@@ -73,9 +73,9 @@ Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích k
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotharmory&layout=compact&theme=tokyonight" width="48%"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamthangph13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phamthangph13&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sotharmory&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamthangph13&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sotharmory&theme=tokyonight&hide_border=true)
 
 </div>
 </p>
