@@ -68,12 +68,11 @@ Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích k
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sotharmory&show_icons=true&theme=tokyonight&count_private=true" width="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotharmory&layout=compact&theme=tokyonight&hide_border=true" width="300px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotharmory&theme=tokyonight&hide_border=true" width="300px"/>
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sotharmory&show_icons=true&theme=tokyonight&count_private=true" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotharmory&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotharmory&theme=tokyonight&hide_border=true" width="32%"/>
+</p>
 
 ---
 
