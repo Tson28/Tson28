@@ -1,4 +1,10 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> </p>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> </h1> <p align="center">
+    <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> 
+    <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> 
+    <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> 
+  </p>
+
 🧑‍💻 About Me
 Hello! I'm Nguyễn Thái Sơn, a second-year student majoring in Information and Communication Technology (ICT) at Phenikaa University.
 
