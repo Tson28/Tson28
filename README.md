@@ -1,27 +1,26 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> </p>
 🧑‍💻 About Me
-Xin chào! Mình là Nguyễn Thái Sơn, sinh viên năm 2 chuyên ngành Công nghệ thông tin và Truyền thông tại Đại học Phenikaa.
-Với niềm đam mê mãnh liệt với công nghệ hiện đại, mình không ngừng khám phá và rèn luyện kỹ năng qua từng dòng code và dự án thực tế.
+Hello! I'm Nguyễn Thái Sơn, a second-year student majoring in Information and Communication Technology (ICT) at Phenikaa University.
 
-Từ một sinh viên yêu thích lập trình, mình đang từng bước trở thành một Full-stack Developer, hướng tới mục tiêu làm việc tại môi trường công nghệ hàng đầu tại Nhật Bản. Với mình, phát triển phần mềm không chỉ là giải quyết bài toán kỹ thuật, mà còn là tạo ra trải nghiệm chạm tới cảm xúc người dùng.
+With a deep passion for modern technologies, I'm constantly exploring and sharpening my skills through hands-on projects and continuous learning. From my early curiosity in programming, I’ve been steadily evolving into a Full-stack Developer—driven by a desire to build impactful software that not only works, but delights users.
 
-"Phần mềm tốt là phần mềm khiến người dùng không cần hỏi 'Làm sao để dùng?' "
+“Great software doesn't need a manual – it should feel intuitive from the first click.”
 
-🔭 Hiện tại, mình đang tập trung vào:
-Nâng cao chuyên môn với React, Flutter, Kotlin, và FastAPI
+🔭 I’m currently focused on:
+Advancing my skills in React, Flutter, Kotlin, and FastAPI
 
-Học về kiến trúc hệ thống, CI/CD pipelines, DevOps, và các mô hình triển khai trên AWS
+Learning about system architecture, CI/CD pipelines, and DevOps practices, especially on AWS
 
-Xây dựng nhiều dự án cá nhân & open source để phát triển kỹ năng thực chiến
+Building personal and open source projects to gain real-world development experience
 
-Tham gia các cộng đồng công nghệ để học hỏi và chia sẻ
+Engaging with tech communities to learn, contribute, and grow together
 
-💡 Mục tiêu:
-Trở thành lập trình viên toàn diện, hiểu cả về UX/UI, logic hệ thống, và vận hành sản phẩm
+💡 Goals:
+Become a well-rounded developer with a strong grasp of UX/UI design, system logic, and product deployment
 
-Làm việc tại các công ty công nghệ Nhật Bản để phát triển sự nghiệp quốc tế
+Work in a Japanese tech company to grow professionally in an international environment
 
-Truyền cảm hứng cho các bạn trẻ đam mê lập trình giống mình 💙
+Inspire other young developers in Vietnam who share the same passion for coding 💙
 ---
 ## 🔧 Tech Stack
 
