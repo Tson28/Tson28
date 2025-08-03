@@ -98,7 +98,10 @@ Inspire other young developers in Vietnam who share the same passion for coding 
 ---
 
 💡 Personal Quotes
-“Công nghệ là cầu nối giữa ý tưởng và thế giới thực.”
+“Công nghệ là cầu nối giữa ý tưởng và thế giới thực.” 
+
 “Code không phải để máy hiểu, mà là để con người duy trì.”
+
 “Viết phần mềm không chỉ để hoạt động – mà để thuyết phục và truyền cảm hứng.”
+
 ---
