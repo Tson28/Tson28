@@ -1,9 +1,15 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> </h1> <p align="center">
-    <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> 
-    <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> 
-    <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> 
-  </p>
+<!-- Include Typed.js -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<div id="typed-output"></div>
+<script>
+  var typed = new Typed('#typed-output', {
+    strings: ["✨ Nguyễn Thái Sơn ✨", "🚀 Web / App Developer", "🌏 Bridging Vietnam and Japan 🌸"],
+    typeSpeed: 60,
+    backSpeed: 40,
+    loop: true
+  });
+</script>
+
 
 🧑‍💻 About Me
 Hello! I'm Nguyễn Thái Sơn, a second-year student majoring in Information and Communication Technology (ICT) at Phenikaa University.
