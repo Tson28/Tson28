@@ -1,29 +1,27 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> </p>
+🧑‍💻 About Me
+Xin chào! Mình là Nguyễn Thái Sơn, sinh viên năm 2 chuyên ngành Công nghệ thông tin và Truyền thông tại Đại học Phenikaa.
+Với niềm đam mê mãnh liệt với công nghệ hiện đại, mình không ngừng khám phá và rèn luyện kỹ năng qua từng dòng code và dự án thực tế.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" />
-  <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" />
-  <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" />
-</p>
+Từ một sinh viên yêu thích lập trình, mình đang từng bước trở thành một Full-stack Developer, hướng tới mục tiêu làm việc tại môi trường công nghệ hàng đầu tại Nhật Bản. Với mình, phát triển phần mềm không chỉ là giải quyết bài toán kỹ thuật, mà còn là tạo ra trải nghiệm chạm tới cảm xúc người dùng.
 
+"Phần mềm tốt là phần mềm khiến người dùng không cần hỏi 'Làm sao để dùng?' "
 
----
+🔭 Hiện tại, mình đang tập trung vào:
+Nâng cao chuyên môn với React, Flutter, Kotlin, và FastAPI
 
-## 🧑‍💻 About Me
+Học về kiến trúc hệ thống, CI/CD pipelines, DevOps, và các mô hình triển khai trên AWS
 
-Xin chào! Mình là **Nguyễn Thái Sơn**, một sinh viên năm 2 ngành **Công nghệ thông tin và Truyền thông (ICT)** tại  **Đại học Phenikaa**.  
-Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích khám phá các công nghệ mới và không ngừng học hỏi để hoàn thiện bản thân.
+Xây dựng nhiều dự án cá nhân & open source để phát triển kỹ năng thực chiến
 
-> _“Mình không chỉ muốn tạo ra phần mềm chạy được – mà là thứ khiến người dùng phải mỉm cười.”_
+Tham gia các cộng đồng công nghệ để học hỏi và chia sẻ
 
-🔭 Hiện tại mình đang:
-- Nghiên cứu sâu hơn về **React**, **Flutter**, **Kotlin**
-- Học về **Full-stack Web**, **CI/CD**
-- Làm các dự án cá nhân và open source để rèn luyện kỹ năng thực chiến
-- Hướng tới môi trường làm việc tại công ty công nghệ Nhật Bản 🇯🇵
+💡 Mục tiêu:
+Trở thành lập trình viên toàn diện, hiểu cả về UX/UI, logic hệ thống, và vận hành sản phẩm
 
+Làm việc tại các công ty công nghệ Nhật Bản để phát triển sự nghiệp quốc tế
+
+Truyền cảm hứng cho các bạn trẻ đam mê lập trình giống mình 💙
 ---
 ## 🔧 Tech Stack
 
@@ -96,15 +94,13 @@ Mình đam mê **phát triển ứng dụng Web/Mobile hiện đại**, thích k
 
 - 📧 Email: **son28062005@gmail.com**
 - 🌐 GitHub: [Sotharmory](https://github.com/Sotharmory)
-- 🧑‍🎓 Facebook: (https://www.facebook.com/SoThamory01/)
+- 🧑‍🎓 Facebook: https://www.facebook.com/SoThamory01/
 - 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese (studying) 🇯🇵
 
 ---
 
-## 💡 Personal Philosophy
-
-> _“Công nghệ là cầu nối giữa ý tưởng và thế giới thực. Tốt gỗ, tốt cả nước sơn, nhưng phải hiểu người dùng cần gì trước tiên.”_
-
-> _"Perfection is not when there's nothing left to add, but when there's nothing left to take away."_
-
+💡 Personal Quotes
+“Công nghệ là cầu nối giữa ý tưởng và thế giới thực.”
+“Code không phải để máy hiểu, mà là để con người duy trì.”
+“Viết phần mềm không chỉ để hoạt động – mà để thuyết phục và truyền cảm hứng.”
 ---
