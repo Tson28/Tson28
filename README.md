@@ -9,29 +9,24 @@
 </p>
 
 
+🧑‍💻 自己紹介
+こんにちは！私はグエン・タイ・ソンと申します。フェニカ大学の情報通信技術（ICT）専攻の2年生です。
 
-🧑‍💻 About Me
-Hello! I'm Nguyễn Thái Sơn, a second-year student majoring in Information and Communication Technology (ICT) at Phenikaa University.
+現代技術への強い情熱を持ち、日々プロジェクトに取り組みながら実践的なスキルを磨き、継続的に学習しています。幼い頃からプログラミングに興味を持ち、現在はフルスタック開発者として成長中です。単に動作するだけでなく、ユーザーに喜ばれる影響力のあるソフトウェアを作ることが私の目標です。
 
-With a deep passion for modern technologies, I'm constantly exploring and sharpening my skills through hands-on projects and continuous learning. From my early curiosity in programming, I’ve been steadily evolving into a Full-stack Developer—driven by a desire to build impactful software that not only works, but delights users.
+「優れたソフトウェアにはマニュアルはいらない——最初のクリックから直感的に使えるべきだ。」
 
-“Great software doesn't need a manual – it should feel intuitive from the first click.”
+🔭 現在の取り組み:
 
-🔭 I’m currently focused on:
-Advancing my skills in React, Flutter, Kotlin, and FastAPI
+React、Flutter、Kotlin、FastAPI のスキル向上
+システムアーキテクチャ、CI/CD パイプライン、DevOps（特に AWS）について学習
+個人・オープンソースプロジェクトを通じて実務経験を積む
+技術コミュニティとの交流を通じて学び、貢献し、共に成長する
+💡 目標:
+UX/UIデザイン、システムロジック、プロダクトのデプロイに強い、バランスの取れた開発者になること
+日本のIT企業で働き、国際的な環境で専門性を高めること
+コーディングに情熱を持つベトナムの若手開発者たちに刺激を与える存在になること 💙
 
-Learning about system architecture, CI/CD pipelines, and DevOps practices, especially on AWS
-
-Building personal and open source projects to gain real-world development experience
-
-Engaging with tech communities to learn, contribute, and grow together
-
-💡 Goals:
-Become a well-rounded developer with a strong grasp of UX/UI design, system logic, and product deployment
-
-Work in a Japanese tech company to grow professionally in an international environment
-
-Inspire other young developers in Vietnam who share the same passion for coding 💙
 ---
 ## 🔧 Tech Stack
 
