@@ -26,42 +26,67 @@ UX/UIデザイン、システムロジック、プロダクトのデプロイに
 コーディングに情熱を持つベトナムの若手開発者たちに刺激を与える存在になること 💙
 
 ---
-## 🔧 Tech Stack
+<h2 align="center">🔧 Tech Stack & Skills</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🌐+Web+%26+Mobile+Development;🧩+Backend+%26+Databases;☁️+Cloud+%26+DevOps;🔐+Cybersecurity+%26+IoT;⚙️+Tools+%26+Others" />
+</p>
+
+---
 
 ### 🌐 Web & Mobile Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+---
 
 ### 🧩 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
-### 🔐 Cyber & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-1E1E1E?style=flat)
+---
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+### 🔐 Cybersecurity & Embedded Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-1E1E1E?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 
 
 
