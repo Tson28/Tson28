@@ -37,17 +37,52 @@
 ---
 
 ## 📂 Featured Projects
-🔹 **Netflix-like App Clone** 🎥  
-> Một ứng dụng streaming giống Netflix, xây dựng bằng React + Node.js, hỗ trợ đăng nhập, quản lý user, xem video trực tuyến.  
 
-🔹 **Delivery Platform – BEE** 🚚  
-> Thiết kế cơ sở dữ liệu và hệ thống giao hàng, hỗ trợ quản lý shipper, đơn hàng, và khách hàng.  
+### 🎬 YouTube Clone (Flutter)
+- **Repo:** [youtube_clone_flutter-master](https://github.com/Tson28/youtube_clone_flutter-master)  
+- **Tech:** Flutter, Dart, Firebase  
+- **Mô tả:** Ứng dụng clone giao diện và chức năng chính của YouTube.  
+- **Điểm mạnh:** UI/UX giống thật, hỗ trợ phát video, tìm kiếm, và quản lý tài khoản cơ bản.  
 
-🔹 **Video Story Social Network** 📱  
-> Mạng xã hội chia sẻ video story (tương tự Instagram Stories), có tính năng like, comment, explore.  
+---
 
-🔹 **IoT Smart Home System** 🔐  
-> Kết hợp Arduino + ESP32 để quản lý thiết bị nhà thông minh, tích hợp bảo mật cơ bản.  
+### 💬 SocialMedia Platform (Mobile)
+- **Repo:** [SocialMedia](https://github.com/Tson28/SocialMedia)  
+- **Tech:** Flutter, Dart  
+- **Mô tả:** Mạng xã hội mini, cho phép người dùng đăng bài, like, comment.  
+- **Điểm mạnh:** Học cách xây dựng **feed realtime** và quản lý dữ liệu user.  
+
+---
+
+### 🌐 SocialHub Web
+- **Repo:** [SocialHub-web](https://github.com/Tson28/SocialHub-web)  
+- **Tech:** JavaScript, HTML, CSS  
+- **Mô tả:** Ứng dụng web mạng xã hội cơ bản trên nền tảng web.  
+- **Điểm mạnh:** Tập trung vào **Front-End interactivity** và responsive design.  
+
+---
+
+### 📊 PulsePredict App
+- **Repo:** [PulsePredict-App](https://github.com/Tson28/PulsePredict-App)  
+- **Tech:** Python, Machine Learning  
+- **Mô tả:** Ứng dụng dự đoán nhịp tim & sức khỏe dựa trên dữ liệu đầu vào.  
+- **Điểm mạnh:** Tích hợp **ML models** cơ bản để xử lý dữ liệu y tế.  
+
+---
+
+### 🌍 Web Project Final
+- **Repo:** [web-project-final](https://github.com/Tson28/web-project-final)  
+- **Tech:** PHP, MySQL  
+- **Mô tả:** Website bài tập lớn cuối kỳ, xây dựng chức năng quản lý và tương tác người dùng.  
+- **Điểm mạnh:** Áp dụng kiến thức **Back-End với PHP + Database** thực tế.  
+
+---
+
+### 🛒 Zunef Web (Kinh doanh thật)
+- **Repo:** [Zunef-web](https://github.com/Tson28/Zunef-web)  
+- **Tech:** HTML, CSS, PHP, MySQL  
+- **Mô tả:** Website thương mại điện tử nhỏ, đang được sử dụng cho hoạt động bán hàng thực tế.  
+- **Điểm mạnh:** Đây là **dự án kinh doanh thật** – chứng minh khả năng làm sản phẩm đi vào vận hành.  
 
 ---
 
