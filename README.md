@@ -112,7 +112,7 @@
 
 ## 🌱 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tson28&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tson28&custom_title=Contribution%20Graph&hide_border=true&theme=tokyo-night" />
 </p>
 
 ---
