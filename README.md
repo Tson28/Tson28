@@ -52,8 +52,6 @@
 ---
 
 ## 🎓 Certificates & Achievements
-- 🏆 **Honorable Mention – ICPC Vietnam Central Provincial 2024**  
-- 🥇 Giải thưởng nhỏ trong các cuộc thi Cờ vua và Toán thời học sinh (logic & phân tích)  
 - 🎖️ Hoàn thành nhiều khóa học online:  
   - AWS Cloud Practitioner  
   - Responsive Web Design (FreeCodeCamp)  
