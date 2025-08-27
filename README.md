@@ -1,97 +1,100 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> 
 </h1> 
-<p align="center">
-  <img src="https://img.shields.io/badge/ICT_Student-blueviolet?style=for-the-badge&logo=book" /> 
-  <img src="https://img.shields.io/badge/Web_Developer-brightgreen?style=for-the-badge&logo=webcomponents" /> 
-  <img src="https://img.shields.io/badge/Japan_Tech_Lover-red?style=for-the-badge&logo=japan" /> 
-</p>
-
-🧑‍💻 自己紹介
-こんにちは！私はグエン・タイ・ソンと申します。フェニカ大学の情報通信技術（ICT）専攻の2年生です。
-
-現代技術への強い情熱を持ち、日々プロジェクトに取り組みながら実践的なスキルを磨き、継続的に学習しています。幼い頃からプログラミングに興味を持ち、現在はフルスタック開発者として成長中です。単に動作するだけでなく、ユーザーに喜ばれる影響力のあるソフトウェアを作ることが私の目標です。
-
-「優れたソフトウェアにはマニュアルはいらない——最初のクリックから直感的に使えるべきだ。」
-
-🔭 現在の取り組み:
-
-React、Flutter、Kotlin、FastAPI のスキル向上
-システムアーキテクチャ、CI/CD パイプライン、DevOps（特に AWS）について学習
-個人・オープンソースプロジェクトを通じて実務経験を積む
-技術コミュニティとの交流を通じて学び、貢献し、共に成長する
-💡 目標:
-UX/UIデザイン、システムロジック、プロダクトのデプロイに強い、バランスの取れた開発者になること
-日本のIT企業で働き、国際的な環境で専門性を高めること
-コーディングに情熱を持つベトナムの若手開発者たちに刺激を与える存在になること 💙
-
----
-<h2 align="center">🔧 Tech Stack & Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🌐+Web+%26+Mobile+Development;🧩+Backend+%26+Databases;☁️+Cloud+%26+DevOps;🔐+Cybersecurity+%26+IoT;⚙️+Tools+%26+Others" />
+  <img src="https://img.shields.io/badge/ICT_Student-8A2BE2?style=for-the-badge&logo=book&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Web_Developer-32CD32?style=for-the-badge&logo=webcomponents&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Japan_Tech_Lover-FF4C4C?style=for-the-badge&logo=pinboard&logoColor=white"/> 
 </p>
 
 ---
+
+## 🧑‍💻 自己紹介
+こんにちは！私は **グエン・タイ・ソン** と申します。  
+フェニカ大学 ICT 専攻の 2 年生で、日々プログラミングとプロジェクトを通じてスキルを磨いています。  
+
+💡 幼い頃からコードを書くことが大好きで、現在は **フルスタック開発者** を目指して成長中。  
+ただ動くだけのものではなく、**人に使われ、感動を与えるソフトウェア** を作るのが私の目標です。  
+
+> 「優れたソフトウェアにはマニュアルはいらない——最初のクリックから直感的に使えるべきだ。」
+
+---
+
+## 🏢 Education & Experience
+- 🎓 **Phenikaa University (2023 – 2027)**  
+  *Major: ICT (Information and Communication Technology)*  
+  *Focus: Software Engineering, Data Structures & Algorithms, Cloud Computing*  
+
+- 👨‍💻 **Freelance Web/App Developer (2023 – now)**  
+  - Xây dựng website thương mại điện tử nhỏ bằng **React + Node.js + MongoDB**  
+  - Làm ứng dụng mobile học tập cá nhân bằng **Flutter + Firebase**  
+
+- 🌏 **Tech Explorer**  
+  - Đam mê học hỏi công nghệ mới: Cloud, DevOps, IoT  
+  - Quan tâm đến thị trường công nghệ Nhật Bản và Việt Nam  
+
+---
+
+## 📂 Featured Projects
+🔹 **Netflix-like App Clone** 🎥  
+> Một ứng dụng streaming giống Netflix, xây dựng bằng React + Node.js, hỗ trợ đăng nhập, quản lý user, xem video trực tuyến.  
+
+🔹 **Delivery Platform – BEE** 🚚  
+> Thiết kế cơ sở dữ liệu và hệ thống giao hàng, hỗ trợ quản lý shipper, đơn hàng, và khách hàng.  
+
+🔹 **Video Story Social Network** 📱  
+> Mạng xã hội chia sẻ video story (tương tự Instagram Stories), có tính năng like, comment, explore.  
+
+🔹 **IoT Smart Home System** 🔐  
+> Kết hợp Arduino + ESP32 để quản lý thiết bị nhà thông minh, tích hợp bảo mật cơ bản.  
+
+---
+
+## 🎓 Certificates & Achievements
+- 🏆 **Honorable Mention – ICPC Vietnam Central Provincial 2024**  
+- 🥇 Giải thưởng nhỏ trong các cuộc thi Cờ vua và Toán thời học sinh (logic & phân tích)  
+- 🎖️ Hoàn thành nhiều khóa học online:  
+  - AWS Cloud Practitioner  
+  - Responsive Web Design (FreeCodeCamp)  
+
+---
+
+<h2 align="center">⚡ Tech Stack & Skills ⚡</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🌐+Web+%26+Mobile+Development;🧩+Backend+%26+Databases;☁️+Cloud+%26+DevOps;🔐+Cybersecurity+%26+IoT;⚙️+Tools+%26+Others" />
+</p>
 
 ### 🌐 Web & Mobile Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&cacheSeconds=1"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,dart,flutter,kotlin,php" />
 </p>
-
----
 
 ### 🧩 Backend & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cacheSeconds=1"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,cpp,c,go,mongodb,mysql" />
 </p>
-
----
 
 ### ☁️ Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&cacheSeconds=1"/>
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
----
-
-### 🔐 Cybersecurity & Embedded Systems
+### 🔐 Cybersecurity & IoT
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Metasploit-1E1E1E?style=for-the-badge&cacheSeconds=1"/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />  
+  <img src="https://img.shields.io/badge/Metasploit-black?style=flat-square&logo=ghostery&logoColor=white"/>
 </p>
-
----
 
 ### ⚙️ Tools & Others
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&cacheSeconds=1"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&cacheSeconds=1"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,docker" />
 </p>
-
-
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tson28&show_icons=true&theme=tokyonight&count_private=true" width="32%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tson28&layout=compact&theme=tokyonight&hide_border=true" width="32%"/>
@@ -101,36 +104,45 @@ UX/UIデザイン、システムロジック、プロダクトのデプロイに
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tson28&theme=gruvbox&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tson28&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 🌱 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tson28&theme=react-dark" />
 </p>
 
 ---
 
+## 🎶 Personal Life & Hobbies
+- 🎧 Âm nhạc: J-Pop, Lofi, EDM  
+- ♟️ Cờ vua: Rèn luyện tư duy logic  
+- 📚 Đọc sách công nghệ & triết lý sáng tạo  
+- ✈️ Du lịch: Khám phá Nhật Bản và các nền văn hóa mới  
+
+---
+
+## 📌 Roadmap (2025 – 2027)
+- ✅ Thành thạo React, Flutter, FastAPI  
+- ✅ Hoàn thành 15+ dự án thực tế (Web/App/IoT)  
+- 🔄 Thực tập tại công ty IT Nhật Bản  
+- 🎯 Trở thành **Full-stack Developer + DevOps Engineer**  
+- 🌏 Góp phần xây dựng cộng đồng công nghệ Việt – Nhật  
+
+---
+
 ## 💬 Let's Connect!
-
-- 📧 Email: **son28062005@gmail.com**
-- 🌐 GitHub: [Tson28](https://github.com/Tson28)
-- 🧑‍🎓 Facebook: https://www.facebook.com/SoThamory01/
-- 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese (studying) 🇯🇵
-
----
-
-💡 Personal Quotes
-
-“Công nghệ là cầu nối giữa ý tưởng và thế giới thực.” 
-
-“Code không phải để máy hiểu, mà là để con người duy trì.”
-
-“Viết phần mềm không chỉ để hoạt động – mà để thuyết phục và truyền cảm hứng.”
+- 📧 Email: **son28062005@gmail.com**  
+- 🌐 GitHub: [Tson28](https://github.com/Tson28)  
+- 🧑‍🎓 Facebook: [SoThamory01](https://www.facebook.com/SoThamory01/)  
+- 🌏 Languages: Vietnamese 🇻🇳 | English 🇺🇸 | Japanese 🇯🇵  
 
 ---
+
+## 💡 Quotes
+> “Công nghệ là cầu nối giữa ý tưởng và thế giới thực.”  
+> “Code không phải để máy hiểu, mà là để con người duy trì.”  
+> “Viết phần mềm không chỉ để hoạt động – mà để thuyết phục và truyền cảm hứng.”
