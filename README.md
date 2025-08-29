@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Japan_Tech_Lover-FF4C4C?style=for-the-badge&logo=pinboard&logoColor=white"/> 
 </p>
 
+
+
+
 ---
 
 ## 🧑‍💻 自己紹介
