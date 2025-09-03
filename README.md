@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=✨+Nguyễn+Thái+Sơn+✨;🚀+Web+%2F+App+Developer;🌏+Bridging+Vietnam+and+Japan+🌸" alt="Typing SVG" /> 
 </h1> 
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/ICT_Student-8A2BE2?style=for-the-badge&logo=book&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Web_Developer-32CD32?style=for-the-badge&logo=webcomponents&logoColor=white"/> 
