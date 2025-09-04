@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/Web_Developer-32CD32?style=for-the-badge&logo=webcomponents&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Japan_Tech_Lover-FF4C4C?style=for-the-badge&logo=pinboard&logoColor=white"/> 
 </p>
----
-
 ## 🧑‍💻 自己紹介
 こんにちは！私は **グエン・タイ・ソン** と申します。  
 フェニカ大学 ICT 専攻の 2 年生で、日々プログラミングとプロジェクトを通じてスキルを磨いています。  
